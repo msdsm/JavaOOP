@@ -5,7 +5,7 @@
 
 ## 自分用メモ
 
-### インスタンス化して変数
+### インスタンス化して変数に代入
 ```java
 SalesEmployee se = new SalesEmployee();
 ```
