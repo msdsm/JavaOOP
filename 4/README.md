@@ -5,10 +5,10 @@
 
 ## 自分用メモ
 
-### インスタンス化して編集に代入
-'''java
+### インスタンス化して変数
+```java
 SalesEmployee se = new SalesEmployee();
-'''
+```
 1. クラスSalesEmployeeからインスタンスを作成
     - フィールドの値がnullや0で初期化される
 1. 作成されたインスタンスが保存される
